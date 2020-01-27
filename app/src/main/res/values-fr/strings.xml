@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     
+    <string name="welcome">accueil</string>
+    <string name="app_name">Test App</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_data">No Items in Database.\Please Add</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_desc">Note Description</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_note">Save</string>
+    <string name="go_to_notes">Go To Notes List</string>
+    <string name="creation_time">creation time</string>
+    <string name="notes_details">Note Details :</string>
+</resources>
